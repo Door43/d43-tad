@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tad:home|Door43 (tad)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tad|d43-tad repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tad/archive/master.zip|d43-tad.zip]]
+
+**Recent Changes**
+{{changes>ns = tad}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tad|Ethnologue data]]
+
